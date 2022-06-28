@@ -1,8 +1,8 @@
-import SmartCounter from '../SmartCounter/SmartCounter';
+import IFoodCounter from '../IFoodCounter/IFoodCounter';
 import './App.css';
 
 function App() {
-  return <SmartCounter />;
+  return <IFoodCounter />;
 }
 
 export default App;
