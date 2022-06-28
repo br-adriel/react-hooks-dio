@@ -1,8 +1,8 @@
-import Counter from '../Counter/Counter';
+import SmartCounter from '../SmartCounter/SmartCounter';
 import './App.css';
 
 function App() {
-  return <Counter />;
+  return <SmartCounter />;
 }
 
 export default App;
